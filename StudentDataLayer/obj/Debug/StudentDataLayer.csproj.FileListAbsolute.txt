@@ -1,0 +1,7 @@
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.pdb

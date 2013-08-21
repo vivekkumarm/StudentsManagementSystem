@@ -1,0 +1,34 @@
+D:\VisualStudio\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsBO\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsBO\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsBO\obj\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsBO\obj\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsBO\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsBO\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsBO\obj\Debug\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsBO\obj\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsBO\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsBO\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.pdb

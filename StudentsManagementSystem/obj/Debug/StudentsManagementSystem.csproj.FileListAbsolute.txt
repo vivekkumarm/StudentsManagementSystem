@@ -1,0 +1,379 @@
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Optimization.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Providers.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\WebGrease.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem\StudentsManagementSystem\bin\StudentDataLayer.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Optimization.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Providers.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\WebGrease.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+E:\Teamproject\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Providers.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\WebGrease.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsBO.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\EntityFramework.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.Razor.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentDataLayer.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\StudentDataLayer.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Common.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentsManagementSystem\bin\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Common.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\EntityFramework.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Http.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Mvc.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Optimization.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Providers.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\WebGrease.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\EntityFramework.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Http.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Mvc.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentsManagementSystem\bin\GridMvc.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Common.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\EntityFramework.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\GridMvc.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\WebGrease.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Common.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\EntityFramework.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Common.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\EntityFramework.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\GridMvc.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsBO.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\WebGrease.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Common.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\EntityFramework.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Common.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\EntityFramework.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\GridMvc.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\WebGrease.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Common.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\EntityFramework.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+D:\StudentsManagementSystem 22.7.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Common.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\EntityFramework.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\GridMvc.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\WebGrease.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\EntityFramework.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Common.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\EntityFramework.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\GridMvc.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\WebGrease.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\EntityFramework.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsManagementSystem.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Antlr3.Runtime.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Common.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\EntityFramework.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\GridMvc.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Optimization.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Providers.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Razor.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\WebGrease.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Common.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\EntityFramework.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\Newtonsoft.Json.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Net.Http.Formatting.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Http.WebHost.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Mvc.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.Razor.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Deployment.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\System.Web.WebPages.Razor.xml
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\bin\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb

@@ -1,0 +1,81 @@
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+E:\Teamproject\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\StudentsManagementSystem 22.7.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb

@@ -1,0 +1,9 @@
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.pdb

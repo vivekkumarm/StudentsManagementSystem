@@ -1,0 +1,81 @@
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.dll
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.pdb
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+E:\Teamproject\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\Common.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\Common.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\Common.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\Common.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\Common.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\Common.dll
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\Common.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem 22.7.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\Common.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\Common.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\Common.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\Common.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\Common.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb

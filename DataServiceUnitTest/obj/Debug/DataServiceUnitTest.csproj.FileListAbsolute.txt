@@ -1,0 +1,89 @@
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+E:\Teamproject\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+C:\Users\JT910\Documents\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 19.7.203\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+\\dbbackup\Freshers\StudentManagementSystem1\Code\19.07.2013 4.42pm\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+E:\22.07.2013\StudentsManagementSystem 19.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+D:\StudentsManagementSystem 22.7.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+\\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb

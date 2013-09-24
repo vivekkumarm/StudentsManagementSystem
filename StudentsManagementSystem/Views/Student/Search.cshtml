@@ -1,6 +1,7 @@
 ﻿@*Added by Vivek on 22.07.2013*@
-
-@using GridMvc.Html;
+@using GridMvc.Filtering
+@using GridMvc.Html
+@using GridMvc.Sorting
 @model IEnumerable<StudentsBO.DataSeachResults.StudentDSR>
 
 @{
@@ -38,7 +39,9 @@
     @Html.Grid(Model).Columns(columns =>
 {
     columns.Add(c => c.student_name).Titled("Student Name");
-    columns.Add(c => c.standard).Titled("Standard");
+    columns.Add(c => c.standard)
+        .Titled("Standard")
+        .Filterable(true);
     columns.Add().Titled("Language")
         .Encoded(false)
         .Sanitized(false)
@@ -62,11 +65,7 @@
     columns.Add(c => c.total).Titled("Total");
     columns.Add().Titled("Result")
         .Encoded(false)
-        .Sanitized(false)
-        
-        
-        
-        
+        .Sanitized(false)      
         .RenderValueAs(o => StudentMarkResult(o, "Result"));
     columns.Add(c => c.roll_number).Titled("Action")
        .Sanitized(false)

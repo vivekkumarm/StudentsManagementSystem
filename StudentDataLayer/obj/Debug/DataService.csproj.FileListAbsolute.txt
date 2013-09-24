@@ -79,3 +79,12 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.pdb
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.dll
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\Common.pdb
+D:\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.dll
+D:\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.pdb

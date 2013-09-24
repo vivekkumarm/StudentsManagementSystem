@@ -32,3 +32,8 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\bin\Debug\StudentsBO.pdb
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentsBO\obj\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll
+D:\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.pdb
+D:\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache
+D:\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.dll
+D:\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.pdb
